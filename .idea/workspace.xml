@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee4937b3-24d1-4904-973b-e882b5ae8ed5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1706780591">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="py" value="651" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="651" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_flask_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+              <folding>
+                <marker date="1540884345393" expanded="true" signature="84:89" ph="..." />
+                <marker date="1540884345393" expanded="true" signature="172:213" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unittest.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/test_flask_api.py" />
+        <option value="$PROJECT_DIR$/unittest_examples/eg_2.py" />
+        <option value="$PROJECT_DIR$/unittest_examples/eg_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="width" value="1550" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Flask_unit_testing_restful_api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Flask_unit_testing_restful_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_flask_api.TestIntegrations">
+    <configuration name="Unittests for eg_1.TestStringMethods" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Flask_unit_testing_restful_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;eg_1.TestStringMethods&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for eg_2.DefaultWidgetSizeTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Flask_unit_testing_restful_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;eg_2.DefaultWidgetSizeTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for eg_2.SimpleWidgetTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Flask_unit_testing_restful_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;eg_2.SimpleWidgetTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_flask_api.TestIntegrations" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Flask_unit_testing_restful_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_flask_api.TestIntegrations&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_flask_api.TestIntegrations.test_thing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Flask_unit_testing_restful_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_flask_api.TestIntegrations.test_thing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_flask_api.TestIntegrations" />
+      <item itemvalue="Python tests.Unittests for test_flask_api.TestIntegrations.test_thing" />
+      <item itemvalue="Python tests.Unittests for eg_1.TestStringMethods" />
+      <item itemvalue="Python tests.Unittests for eg_2.SimpleWidgetTestCase" />
+      <item itemvalue="Python tests.Unittests for eg_2.DefaultWidgetSizeTestCase" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_flask_api.TestIntegrations" />
+        <item itemvalue="Python tests.Unittests for eg_1.TestStringMethods" />
+        <item itemvalue="Python tests.Unittests for eg_2.DefaultWidgetSizeTestCase" />
+        <item itemvalue="Python tests.Unittests for eg_2.SimpleWidgetTestCase" />
+        <item itemvalue="Python tests.Unittests for test_flask_api.TestIntegrations.test_thing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee4937b3-24d1-4904-973b-e882b5ae8ed5" name="Default Changelist" comment="" />
+      <created>1540880569706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540880569706</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_flask_api_TestIntegrations_test_thing - 2018.10.30 at 12h 47m 51s.xml">
+      <configuration name="Unittests for test_flask_api.TestIntegrations.test_thing" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_flask_api_TestIntegrations - 2018.10.30 at 12h 48m 00s.xml">
+      <configuration name="Unittests for test_flask_api.TestIntegrations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_flask_api_TestIntegrations - 2018.10.30 at 12h 55m 59s.xml">
+      <configuration name="Unittests for test_flask_api.TestIntegrations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_flask_api_TestIntegrations - 2018.10.30 at 13h 01m 17s.xml">
+      <configuration name="Unittests for test_flask_api.TestIntegrations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_flask_api_TestIntegrations - 2018.10.30 at 13h 01m 33s.xml">
+      <configuration name="Unittests for test_flask_api.TestIntegrations" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_eg_1_TestStringMethods - 2018.10.30 at 13h 23m 31s.xml">
+      <configuration name="Unittests for eg_1.TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_eg_2_SimpleWidgetTestCase - 2018.10.30 at 13h 32m 04s.xml">
+      <configuration name="Unittests for eg_2.SimpleWidgetTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_eg_2_DefaultWidgetSizeTestCase - 2018.10.30 at 13h 32m 10s.xml">
+      <configuration name="Unittests for eg_2.DefaultWidgetSizeTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_eg_1_TestStringMethods - 2018.10.30 at 13h 32m 49s.xml">
+      <configuration name="Unittests for eg_1.TestStringMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_flask_api_TestIntegrations - 2018.10.30 at 14h 21m 45s.xml">
+      <configuration name="Unittests for test_flask_api.TestIntegrations" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="990" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="DB Browser" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.24986821" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32946634" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="DB Execution Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_examples/eg_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_examples/eg_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <marker date="1540884345393" expanded="true" signature="84:89" ph="..." />
+            <marker date="1540884345393" expanded="true" signature="172:213" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_flask_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
